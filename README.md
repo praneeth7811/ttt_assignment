@@ -1,5 +1,7 @@
 terribly tiny sales 
 
+Vercel link: https://ttt-assignment-sooty.vercel.app/
+
 step 1: npm install
 step 2: npm install react-scripts
 step 3: npm start
